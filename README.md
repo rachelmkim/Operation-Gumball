@@ -1,4 +1,4 @@
-# Operation-Gumball
+# Red-Ball-Green-Ball
 
 Directions to play game: 
 The computer will generate a 3-digit number with distinct digits (the first digit can be 0) and the player has to try to guess this number in 10 attempts to win; if you cannot guess the correct number in less than 10 attempts, you lose. To help with your guessing, the computer tells you how many “green balls” and “red balls” you have:
