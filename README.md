@@ -14,4 +14,4 @@ Double counts the 1
 
 To help you prevent duplicating guesses, the game also tells you the numbers you have already guessed, in increasing order. Note that if a number starts with 0, in the list, it will remove the 0 when it tells you the numbers you have already guessed.
 
-Link to repl.it: https://repl.it/@rachelkim/Operation-Gumball
+Link to repl.it to run game: https://repl.it/@rachelkim/Operation-Gumball
